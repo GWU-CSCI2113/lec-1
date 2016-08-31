@@ -1,2 +1,2 @@
 # lec-1
-Lecture 1
+Files for use in Lecture 1.
